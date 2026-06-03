@@ -40,8 +40,6 @@ O sistema permite registrar informações pessoais, endereço, contato e dados m
 
 ## 🚀 Como visualizar
 
-## 🚀 Como visualizar
-
 Basta abrir o arquivo `index.html` no navegador — não precisa instalar nada!
 
 ## 🎯 Objetivos de Aprendizagem
