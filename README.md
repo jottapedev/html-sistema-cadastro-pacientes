@@ -40,11 +40,9 @@ O sistema permite registrar informações pessoais, endereço, contato e dados m
 
 ## 🚀 Como visualizar
 
-Basta clonar o repositório e abrir o arquivo `index.html` em qualquer navegador.
+## 🚀 Como visualizar
 
-```bash
-git clone https://github.com/seu-usuario/cadastro-pacientes-etec.git
-```
+Basta abrir o arquivo `index.html` no navegador — não precisa instalar nada!
 
 ## 🎯 Objetivos de Aprendizagem
 
