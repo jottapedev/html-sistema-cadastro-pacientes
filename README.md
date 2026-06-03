@@ -1,24 +1,59 @@
-Sistema de Cadastro de Pacientes
+# cadastro-pacientes-etec
 
-Projeto desenvolvido como atividade acadêmica na ETEC, com o objetivo de aplicar conceitos de desenvolvimento web utilizando HTML, CSS, JavaScript e Bootstrap.
+Sistema de cadastro de pacientes desenvolvido com HTML, JavaScript e Bootstrap para aplicação dos conceitos aprendidos no curso de Desenvolvimento de Sistemas da ETEC.
 
-📖 Descrição
+# 🏥 Cadastro de Pacientes
 
-O sistema consiste em um formulário de cadastro de pacientes para clínicas ou consultórios médicos. A aplicação permite registrar informações pessoais, dados de contato, endereço e informações médicas de forma organizada e intuitiva.
+Formulário de cadastro de pacientes para clínicas e consultórios, desenvolvido em HTML, JavaScript e Bootstrap.
 
-✨ Funcionalidades
-Cadastro de dados pessoais
-Registro de CPF e data de nascimento
-Seleção de sexo e estado civil
-Cadastro de telefones e e-mail
-Consulta de endereço através do CEP
-Informações de convênio médico
-Registro de médico responsável
-Campo para observações médicas
-Upload de documentos
+> 🚧 **Projeto em desenvolvimento** — novas funcionalidades e validações estão sendo implementadas.
 
-🛠 Tecnologias Utilizadas
-HTML5
-CSS3
-Bootstrap 5
-JavaScript
+## 📋 Sobre o projeto
+
+Projeto desenvolvido na ETEC durante o curso de Desenvolvimento de Sistemas. O objetivo é criar um sistema de cadastro de pacientes completo, aplicando conceitos de formulários web, responsividade, validação de dados e integração com APIs.
+
+O sistema permite registrar informações pessoais, endereço, contato e dados médicos do paciente de forma organizada e intuitiva.
+
+## ⚙️ Funcionalidades
+
+* [x] Cadastro de nome completo
+* [x] Cadastro de CPF
+* [x] Data de nascimento
+* [x] Seleção de sexo
+* [x] Seleção de estado civil
+* [x] Cadastro de telefone celular e telefone fixo
+* [x] Cadastro de e-mail
+* [x] Integração com API de CEP para preenchimento automático de endereço
+* [x] Cadastro de informações médicas
+* [x] Cadastro de convênio médico
+* [x] Campo para observações médicas
+* [x] Upload de documentos
+* [x] Interface responsiva com Bootstrap
+
+## 🛠️ Tecnologias utilizadas
+
+* **HTML5**
+* **CSS3**
+* **JavaScript**
+* **Bootstrap 5**
+* **ViaCEP API**
+
+## 🚀 Como visualizar
+
+Basta clonar o repositório e abrir o arquivo `index.html` em qualquer navegador.
+
+```bash
+git clone https://github.com/seu-usuario/cadastro-pacientes-etec.git
+```
+
+## 🎯 Objetivos de Aprendizagem
+
+* Estruturação de formulários HTML
+* Utilização do Bootstrap para responsividade
+* Manipulação do DOM com JavaScript
+* Consumo de APIs externas
+* Organização de projetos web
+
+## 👨‍🎓 Projeto Acadêmico
+
+Trabalho desenvolvido na ETEC
